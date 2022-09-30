@@ -1,3 +1,3 @@
-# semantic_search_app
+# Semantic Search app
 
 [This app is hosted on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_search)
