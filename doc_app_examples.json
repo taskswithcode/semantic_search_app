@@ -1,0 +1,5 @@
+{
+"Querying about a planet": {"name":"planets_qna.txt"},
+"Querying about a disease": {"name":"qna.txt"},
+"Querying about a protein": {"name":"qna2.txt"}
+}

@@ -1,0 +1,5 @@
+transformers
+scipy
+torch
+sentencepiece
+openai

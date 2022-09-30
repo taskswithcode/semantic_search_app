@@ -1,0 +1,13 @@
+Is the protein Papilin secreted? 
+Yes,  papilin is a secreted protein
+Using expression analysis, we identify three genes that are transcriptionally regulated by HLH-2: the protocadherin cdh-3, and two genes encoding secreted extracellular matrix proteins, mig-6/papilin and him-4/hemicentin.  
+We found that mig-6 encodes long (MIG-6L) and short (MIG-6S) isoforms of the extracellular matrix protein papilin, each required for distinct aspects of DTC migration. Both MIG-6 isoforms have a predicted N-terminal papilin cassette 
+For almost all of the identified HSCR genes incomplete penetrance of the HSCR phenotype has been reported, probably due to modifier loci. Therefore, HSCR has become a model for a complex oligo-/polygenic disorder in which the relationship between different genes creating a non-mendelian inheritance pattern still remains to be elucidated 
+apilins are homologous, secreted extracellular matrix proteins which share a common order of protein domains.  
+The TSR superfamily is a diverse family of extracellular matrix and transmembrane proteins, many of which have functions related to regulating matrix organization, cell-cell interactions and cell guidance. This review samples some of the contemporary literature regarding TSR superfamily members (e.g. F-spondin, UNC-5, ADAMTS, papilin, and TRAP) where specific functions are assigned to the TSR domains. 
+Papilin is an extracellular matrix glycoprotein  
+ Collagen IV, laminin, glutactin, papilin, and other extracellular matrix proteins were made primarily by hemocytes and were secreted into the medium.  
+A sulfated glycoprotein was isolated from the culture media of Drosophila Kc cells and named papilin. 
+A sulfated glycoprotein was isolated from the culture media of Drosophila Kc cells and named papilin. 
+The majority of the identified genes are related to Mendelian syndromic forms of Hirschsprung's disease 
+In the etiology of Hirschsprung disease various genes play a role; these are: RET, EDNRB, GDNF, EDN3 and SOX10, NTN3, ECE1, Mutations in these genes may result in dominant, recessive or multifactorial patterns of inheritance 
