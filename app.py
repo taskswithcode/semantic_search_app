@@ -27,7 +27,7 @@ use_case_url = {"1":"https://huggingface.co/spaces/taskswithcode/semantic_simila
 from transformers import BertTokenizer, BertForMaskedLM
 
 
-APP_NAME = "hf/semantic_search"
+APP_NAME = "twc/semantic_search"
 INFO_URL = "http://www.taskswithcode.com/stats/"
 
 

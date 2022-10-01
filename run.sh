@@ -1,2 +1,8 @@
-streamlit run app.py  --server.port 80 "2" "doc_app_examples.json" "doc_app_models.json"
+count=0
+while :
+do
+    streamlit run app.py --server.port 8502  --server.enableCORS false --server.enableXsrfProtection false
+    ((count=count+1))
+    echo "Restarted $count times"
+done
 
