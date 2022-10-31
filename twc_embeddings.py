@@ -215,7 +215,7 @@ class SimCSEModel:
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.model = AutoModel.from_pretrained(model_name)
 
-    def compute_embeddings(self,input_file_name,input_file,input_data,is_file):
+    def compute_embeddings(self,input_file_name,input_data,is_file):
         texts = read_text(input_data) if is_file == True else input_data
         inputs = self.tokenizer(texts, padding=True, truncation=True, return_tensors="pt")
         with torch.no_grad():
